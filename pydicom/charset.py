@@ -398,7 +398,7 @@ def convert_encodings(encodings):
     if isinstance(encodings, compat.string_types):
         encodings = [encodings]
     elif isinstance(encodings, bytes):
-        encdoings = [encodings.decode('utf-8')]
+        encodings = [encodings.decode('utf-8')]
     elif not encodings[0]:
         encodings[0] = 'ISO_IR 6'
 
