@@ -31,6 +31,7 @@ python_encoding = {
     'ISO_IR 144': 'iso_ir_144',  # Russian
     'ISO_IR 148': 'iso_ir_148',  # Turkish
     'ISO_IR 166': 'iso_ir_166',  # Thai
+    'ISO_IR 149': 'euc_kr',
     'ISO 2022 IR 6': 'iso8859',  # alias for latin_1 too
     'ISO 2022 IR 13': 'shift_jis',
     'ISO 2022 IR 87': 'iso2022_jp',
