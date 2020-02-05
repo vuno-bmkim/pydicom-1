@@ -45,6 +45,7 @@ python_encoding = {
     'ISO 2022 IR 144': 'iso_ir_144',
     'ISO 2022 IR 148': 'iso_ir_148',
     'ISO 2022 IR 149': 'euc_kr',
+    'ISO_IR 149': 'euc_kr',
     'ISO 2022 IR 159': 'iso2022_jp_2',
     'ISO 2022 IR 166': 'iso_ir_166',
     'ISO 2022 IR 58': 'iso_ir_58',
